@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
-import NarutoInspiration from "../naruto-inspiration"
+import NarutoInspiration from "../components/naruto-inspiration";
 
 export default function SyntheticV0PageForDeployment() {
-  return <NarutoInspiration />
+  return <NarutoInspiration />;
 }
